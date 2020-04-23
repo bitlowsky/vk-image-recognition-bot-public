@@ -1,0 +1,1 @@
+# vk-image-recognition-bot-public
